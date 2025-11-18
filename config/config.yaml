@@ -99,3 +99,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "v2ex"
+    name: "v2ex"
+  - id: "douban"
+    name: "豆瓣"
